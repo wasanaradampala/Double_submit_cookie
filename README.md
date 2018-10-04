@@ -3,13 +3,13 @@
 
 A sample implementation of preventing CSRF attack using Double submit token pattern in PHP
 
-GET STARTED 
+ GET STARTED 
 
 1) Install PHP
 
 You'll need PHP in your working machine to run this application .Download and install xampp or wampp
 
-2)Run
+2) Run
 
 If the environment is configured using either xampp or wamp servers, then clone the repository and paste it inside the htdocs folder to run the application.
 
